@@ -2,5 +2,5 @@
   MS2-KNN
 </h1>
 <p align="center">
-  <img src="asset/ms2_knn_concept.svg" width="900">
+  <img src="asset/image.png" width="900">
 </p>
