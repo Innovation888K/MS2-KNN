@@ -1,0 +1,5 @@
+﻿method,label,mean_pairwise_jaccard,ubiquitous_compounds,mean_hits_per_herb
+ms2knn,MS2-KNN,0.116,11,314.0
+global_topn,Global Search,0.188,30,334.4
+reverse_iter,Reverse search,0.419,80,270.2
+deconv_nnls,CHIMERYS,0.201,33,333.6

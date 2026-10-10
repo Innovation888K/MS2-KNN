@@ -1,0 +1,13 @@
+﻿scope,method,n_sample,mean_hits,pct_solved_all
+AB(2组分),ms2knn,85,0.88,23.5
+AB(2组分),global_topn,85,0.69,4.7
+AB(2组分),reverse_iter,85,0.76,15.3
+AB(2组分),deconv_nnls,85,0.73,9.4
+ABC(3组分),ms2knn,3,0.0,0.0
+ABC(3组分),global_topn,3,0.33,0.0
+ABC(3组分),reverse_iter,3,0.33,0.0
+ABC(3组分),deconv_nnls,3,0.33,0.0
+全部,ms2knn,88,0.85,22.7
+全部,global_topn,88,0.68,4.5
+全部,reverse_iter,88,0.75,14.8
+全部,deconv_nnls,88,0.72,9.1
