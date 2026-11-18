@@ -93,4 +93,4 @@ This project is released under the [MIT License](LICENSE).
 
 ## Contact
 
-Xuesong Liu ([liuxuesong@zju.edu.cn](mailto:liuxuesong@zju.edu.cn)) and Tengfei Xu ([tfxu@zju.edu.cn](mailto:tfxu@zju.edu.cn)), School of Pharmacy, Zhejiang University.
+Yichen Wang([easonwang@zju.edu.cn](mailto:easonwang@zju.edu.cn)), Xuesong Liu ([liuxuesong@zju.edu.cn](mailto:liuxuesong@zju.edu.cn)) and Tengfei Xu ([tfxu@zju.edu.cn](mailto:tfxu@zju.edu.cn)), School of Pharmacy, Zhejiang University.
